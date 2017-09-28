@@ -9,4 +9,5 @@ This section of the volume contains Greek and Syrian historical fragments preser
 `xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.
 
 #### License
-Contents of the DFHG project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Contents of the DFHG project are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
